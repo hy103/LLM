@@ -152,7 +152,7 @@ def calculate_professional_value(features_values, weights):
 
     return normalized_final_valuation
 
-# Example usage:
+# consider below as an example
 features_values = [8, 0.8, 0.5, 0.9, 0.4, 0.7, 0.9, 0.8, 0.6, 0.8, 0.7]  # I have taken these values as an exaple
 weights = [0.10, 0.08, 0.12, 0.07, 0.09, 0.08, 0.15, 0.13, 0.11, 0.09, 0.07]
 min_values = [0,0,0,0,0,0,0,0,0,0,]  
