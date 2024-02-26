@@ -1,12 +1,11 @@
-The aim of the project is the evaluate a Person's profession based on years of experience, level of innovation, organization reputation etc.
+The aim of the project is t0 evaluate a Person's profession based on years of experience, level of innovation, organization reputation etc.
 I have first outlined the features which are most considered while evaluating a candiadate capability for a particular job.
 
 As the features cannot be measeured absolutely. I have incorporated the fuzzy logic to handle imprecise and uncertain information, providing a more nuanced approach. Fuzzy logic helps with the concepts that are inherently ambiguous or subjective, like "good quality," "high demand," or "customer satisfaction."
 
 I have curated the features and assigned weights according to person's evaluation for a higher posiiton like CEO.
 
-These are the features.
-Feature and its weights based on the importance of feature
+These are the features and its weights based on the importance of feature
 
 1. Years of work experience - 0.13 (assuming high importance)
 2. Educational Qualifications - 0.08 (assuming lower importance than experience)
