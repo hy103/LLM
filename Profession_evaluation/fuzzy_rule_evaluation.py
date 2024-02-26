@@ -141,7 +141,7 @@ def calculate_professional_value(features_values, weights):
 
     weighted_features = [apply_weights(value, weight) for value, weight in zip(normalized_features, weights)]
 
-    for i in range(len(weighted_features) - 1):
+    for i in range(0, len(weighted_features) - 1):
         professional_value_simulation.input[f'feature_{i+1}'] = weighted_features[i]
 
     professional_value_simulation.compute()
