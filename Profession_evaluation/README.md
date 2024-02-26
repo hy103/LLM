@@ -1,4 +1,4 @@
-The aim of the project is t0 evaluate a Person's profession based on years of experience, level of innovation, organization reputation etc.
+The aim of the project is to evaluate a Person's profession based on years of experience, level of innovation, organization reputation etc.
 I have first outlined the features which are most considered while evaluating a candiadate capability for a particular job.
 
 As the features cannot be measeured absolutely. I have incorporated the fuzzy logic to handle imprecise and uncertain information, providing a more nuanced approach. Fuzzy logic helps with the concepts that are inherently ambiguous or subjective, like "good quality," "high demand," or "customer satisfaction."
