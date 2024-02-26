@@ -1,0 +1,5 @@
+unstructured
+libmagic
+python-magic==0.4.27
+faiss-cpu
+sentence-transformers
